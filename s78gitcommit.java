@@ -1,6 +1,3 @@
-aaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbb
-vvvvvvvvvvvv
 ccccccccccccccccc
 dddddddddddddd
 sdaaaaaaaaaaaaa
